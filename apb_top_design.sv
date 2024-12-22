@@ -1,6 +1,6 @@
 `include "apb_m_design.sv"
 `include "apb_s_design.sv"
-
+//TOP MODULE FOR MASTER-SLAVE
 module apb_top
     (
         input clk,
